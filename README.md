@@ -1,6 +1,5 @@
 Haraka-http-queue
 =================
-----------
 
 A plugin for [`Haraka`][1] wich allows to send the inbound e-mail via a **`POST HTTP`** request.
 
