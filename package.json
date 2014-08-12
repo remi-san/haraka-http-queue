@@ -1,0 +1,10 @@
+{
+	"name":"haraka_local",
+	"description":"An SMTP Server with a HTTP POST plugin queue",
+	"version":"0.0.1",
+	"dependencies":{
+		"http" : "",
+		"buffer" : "",
+		"daemon" : ""
+	}
+}
