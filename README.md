@@ -7,6 +7,8 @@ See [`install.sh`][2] for more information on how to install it inside of **Hara
 
 Configuration file to set the `callback URL` will come shortly.
 
+Enjoy!
+
 
   [1]: https://github.com/baudehlo/Haraka
   [2]: https://github.com/remi-san/haraka-http-queue/blob/master/install.sh
